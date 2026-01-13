@@ -1,0 +1,46 @@
+body {
+    background-color: #a8ddd62f;
+}
+
+.b {
+    background-color: rgba(245, 222, 179, 0.32);
+}
+
+#one {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: #006655;
+    background-color: #c9e7e3;
+}
+
+#tb {
+    color: #005A4E;
+    background-color: #d6e6e3;
+}
+
+a {
+    color: rgb(0, 114, 178);
+    text-decoration: none;
+}
+
+.a:hover{
+    color: white;
+    background-color: blue;
+}
+
+th {
+    background-color: #a8ddd6;
+}
+
+.b:hover{
+    background-color: #d6e6e3;
+}
+
+#kb {
+    text-align: center;
+    color: white;
+    background-color: #005A4E;
+}
